@@ -1,6 +1,6 @@
 ### Oh, hello 👋
 
-Look, I don’t know. This is embarrassing, but I spend too much time in front of a computer. I like playing with code, design, and illustration.
+This is embarrassing, but I spend too much time in front of a computer. I like playing with code, design, and illustration.
 
 Check out this URLs:
 
