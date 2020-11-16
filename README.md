@@ -18,6 +18,6 @@ This is embarrassing, but I spend too much time in front of a computer. I like p
 -------- | ------ | ------
 🤖 | [txtnau](https://twitter.com/txtnau) | A bot that looks at art and tweets what it sees.
 🤖 | [OMG Movies!](https://twitter.com/omg_movies) | A bot that loves films but doesn't have a very good memory
-🤖 | [I remember bot](https://twitter.com/irememberbot) | A tribute to Georges Perec's I remember
+🤖 | [I remember bot](https://twitter.com/irememberbot) | A tribute to Georges Perec's "Je me souviens" in the form of a bot.
 
 You can also find me in [Twitter](https://twitter.com/javier) and [Instagram](https://instagram.com/javier).
