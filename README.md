@@ -1,6 +1,6 @@
 ### Oh, hello 👋
 
-This is embarrassing, but I spend too much time in front of a computer. I like playing with code, design, and illustration.
+My name is Javier Arce. I am a designer that codes, a programmer that draws, and an illustrator that is [very] enthusiastic about the World Wide Web.
 
 ### Some recent projects
 
