@@ -2,7 +2,7 @@
 
 My name is Javier Arce. I am a designer that codes, a programmer that draws, and an illustrator that feels [very] enthusiastic about the World Wide Web.
 
-### Some recent projects
+### Recent projects:
 
 |  | URL | What is this
 -------- | ------ | ------
@@ -12,7 +12,7 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 🎨 | [Javier Arce](https://javierarce.com) | My incredibly silly illustration portfolio.
 🎲 | [Games People Play](https://www.are.na/javier/games-people-play) | An are.na channel that collects experimental, weird, folk, and casual games.
 
-### Bots
+### Bots I've made:
 
 |  | URL | What is this
 -------- | ------ | ------
@@ -20,7 +20,7 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 🤖 | [OMG Movies!](https://twitter.com/omg_movies) | A bot that loves films but doesn't have a very good memory
 🤖 | [I remember bot](https://twitter.com/irememberbot) | A tribute to Georges Perec's "Je me souviens" in the form of a bot.
 
-### Find me at
+### Find me at:
 
 - [Twitter](https://twitter.com/javier). 
 - [Instagram](https://instagram.com/javier)  
