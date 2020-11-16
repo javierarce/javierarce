@@ -1,6 +1,6 @@
 ### Oh, hello 👋
 
-My name is Javier Arce. I am a designer that codes, a programmer that draws, and an illustrator that is [very] enthusiastic about the World Wide Web.
+My name is Javier Arce. I am a designer that codes, a programmer that draws, and an illustrator that feels [very] enthusiastic about the World Wide Web.
 
 ### Some recent projects
 
@@ -20,4 +20,8 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 🤖 | [OMG Movies!](https://twitter.com/omg_movies) | A bot that loves films but doesn't have a very good memory
 🤖 | [I remember bot](https://twitter.com/irememberbot) | A tribute to Georges Perec's "Je me souviens" in the form of a bot.
 
-You can also find me in [Twitter](https://twitter.com/javier) and [Instagram](https://instagram.com/javier).
+Also finde me at:
+
+- [Twitter](https://twitter.com/javier). 
+- [Instagram](https://instagram.com/javier)  
+- [Are.na](https://are.na/javier)
