@@ -20,7 +20,7 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 🤖 | [OMG Movies!](https://twitter.com/omg_movies) | A bot that loves films but doesn't have a very good memory
 🤖 | [I remember bot](https://twitter.com/irememberbot) | A tribute to Georges Perec's "Je me souviens" in the form of a bot.
 
-Also finde me at:
+### Find me at
 
 - [Twitter](https://twitter.com/javier). 
 - [Instagram](https://instagram.com/javier)  
