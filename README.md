@@ -2,7 +2,7 @@
 
 This is embarrassing, but I spend too much time in front of a computer. I like playing with code, design, and illustration.
 
-Check out this URLs:
+### Some recent projects
 
 |  | URL | What is this
 -------- | ------ | ------
@@ -12,7 +12,7 @@ Check out this URLs:
 🎨 | [Javier Arce](https://javierarce.com) | My incredibly silly illustration portfolio.
 🎲 | [Games People Play](https://www.are.na/javier/games-people-play) | An are.na channel that collects experimental, weird, folk, and casual games.
 
-## Bots
+### Bots
 
 |  | URL | What is this
 -------- | ------ | ------
