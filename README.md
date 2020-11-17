@@ -22,6 +22,6 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 
 ### Find me at:
 
-- [Twitter](https://twitter.com/javier). 
+- [Twitter](https://twitter.com/javier)
 - [Instagram](https://instagram.com/javier)  
 - [Are.na](https://are.na/javier)
