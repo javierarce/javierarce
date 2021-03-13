@@ -16,8 +16,9 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 
 |  | URL | What is this
 -------- | ------ | ------
+🤖 | [viriliobot](https://twitter.com/viriliobot) | A bot that write tweets emulating one of Paul Virilio's famous quotes.
 🤖 | [txtnau](https://twitter.com/txtnau) | A bot that looks at art and tweets what it sees.
-🤖 | [OMG Movies!](https://twitter.com/omg_movies) | A bot that loves films but doesn't have a very good memory
+🤖 | [OMG Movies!](https://twitter.com/omg_movies) | A bot that loves films but doesn't have a very good memory.
 🤖 | [I remember bot](https://twitter.com/irememberbot) | A tribute to Georges Perec's "Je me souviens" in the form of a bot.
 
 ### Other things
