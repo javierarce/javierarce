@@ -25,7 +25,7 @@ My name is Javier Arce. I am a designer that codes, a programmer that draws, and
 
 |  | URL | What is this
 -------- | ------ | ------
-🎨 | [Drawings](https://javierarce.com) | My incredibly silly illustration portfolio.
+🎨 | [Drawings](https://drawings.javierarce.com) | My incredibly silly illustration portfolio.
 🎲 | [Games People Play](https://www.are.na/javier/games-people-play) | An are.na channel that collects experimental, weird, folk, and casual games.
 
 ### Find me at:
