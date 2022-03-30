@@ -1,1 +1,1 @@
-https://javier.computer
+[javier.computer](https://javier.computer)
